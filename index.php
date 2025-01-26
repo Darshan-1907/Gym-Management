@@ -11,14 +11,14 @@
   <style type="text/css">
     #inputbtn:hover{cursor:pointer;}
   </style>
-  <body style="background:url('images/4.jpg'); background-size: cover;">
+  <body style="background:url('4.jpg'); background-size: cover;">
   <b><h style="float:right;color:white;font-size:100px;text-shadow:4px 4px skyblue">TECH GYM</h></b>
     <div class="container-fluid" style="margin-top:60px;margin-bottom:60px;color:#34495E;">
       <div class="row">
         <div class="col-md-1"></div>
         <div class="col-md-4">
           <div class="card" style="width:400px;box-shadow:5px 5px 5px 5px skyblue">
-            <img src="images/cardback.jpg" class="card-img-top">
+            <img src="cardback.jpg" class="card-img-top">
             
             <div class="card-body">
               <center>
